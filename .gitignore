@@ -14,4 +14,3 @@ build
 # Ignore Local Test Files
 test.lua
 test.obfuscated.lua
-config.lua
